@@ -1,0 +1,18 @@
+﻿  demo.cpp
+f:\计算机视觉\visual c++&&opencv\work_place\learing_opencv\learing_opencv\demo.cpp(382): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+f:\计算机视觉\visual c++&&opencv\work_place\learing_opencv\learing_opencv\demo.cpp(442): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+f:\计算机视觉\visual c++&&opencv\work_place\learing_opencv\learing_opencv\demo.cpp(445): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\计算机视觉\visual c++&&opencv\work_place\learing_opencv\learing_opencv\demo.cpp(446): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\计算机视觉\visual c++&&opencv\work_place\learing_opencv\learing_opencv\demo.cpp(456): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\计算机视觉\visual c++&&opencv\work_place\learing_opencv\learing_opencv\demo.cpp(457): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\计算机视觉\visual c++&&opencv\work_place\learing_opencv\learing_opencv\demo.cpp(458): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\计算机视觉\visual c++&&opencv\work_place\learing_opencv\learing_opencv\demo.cpp(465): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Learing_opencv.vcxproj -> F:\计算机视觉\visual c++&&opencv\work_place\Learing_opencv\x64\Debug\Learing_opencv.exe
